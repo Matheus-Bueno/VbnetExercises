@@ -1,0 +1,14 @@
+C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\obj\Debug\net8.0\VbnetExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\obj\Debug\net8.0\VbnetExercises.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\obj\Debug\net8.0\VbnetExercises.AssemblyInfo.vb
+C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\obj\Debug\net8.0\VbnetExercises.vbproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\bin\Debug\net8.0\VbnetExercises.exe
+C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\bin\Debug\net8.0\VbnetExercises.deps.json
+C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\bin\Debug\net8.0\VbnetExercises.runtimeconfig.json
+C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\bin\Debug\net8.0\VbnetExercises.dll
+C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\bin\Debug\net8.0\VbnetExercises.pdb
+C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\obj\Debug\net8.0\VbnetExercises.dll
+C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\obj\Debug\net8.0\refint\VbnetExercises.dll
+C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\obj\Debug\net8.0\VbnetExercises.pdb
+C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\obj\Debug\net8.0\VbnetExercises.genruntimeconfig.cache
+C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\obj\Debug\net8.0\ref\VbnetExercises.dll
