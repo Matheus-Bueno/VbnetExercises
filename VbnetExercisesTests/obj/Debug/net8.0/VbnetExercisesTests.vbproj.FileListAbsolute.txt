@@ -115,3 +115,4 @@ C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercisesTests\obj\D
 C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercisesTests\obj\Debug\net8.0\VbnetExercisesTests.pdb
 C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercisesTests\obj\Debug\net8.0\VbnetExercisesTests.genruntimeconfig.cache
 C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercisesTests\obj\Debug\net8.0\ref\VbnetExercisesTests.dll
+C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercisesTests\obj\Debug\net8.0\VbnetExercisesTests.sourcelink.json

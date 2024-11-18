@@ -12,3 +12,4 @@ C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\obj\Debug\
 C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\obj\Debug\net8.0\VbnetExercises.pdb
 C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\obj\Debug\net8.0\VbnetExercises.genruntimeconfig.cache
 C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\obj\Debug\net8.0\ref\VbnetExercises.dll
+C:\Users\Matheus\Documents\MeusProjetos\VbnetExercises\VbnetExercises\obj\Debug\net8.0\VbnetExercises.sourcelink.json

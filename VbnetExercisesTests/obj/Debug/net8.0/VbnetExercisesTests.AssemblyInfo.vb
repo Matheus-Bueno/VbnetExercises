@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("VbnetExercisesTests"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2771a98247fdd1627d2a34bafcf56f8a834f76fc"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("VbnetExercisesTests"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("VbnetExercisesTests"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
